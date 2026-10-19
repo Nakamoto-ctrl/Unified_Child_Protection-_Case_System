@@ -1,0 +1,6 @@
+{
+  "name": "Protect Pikin – MBSSE Child Protection Case System",
+  "description": "Unified child protection case management system prototype for Sierra Leone's Ministry of Basic and Senior Secondary Education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
